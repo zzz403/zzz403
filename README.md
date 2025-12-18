@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 👨‍🎓 I'm a double major in Computer Science and Statistics at the University of Toronto.  
 👨‍💻 My interests include Web Development, Machine Learning, and Data Analysis.  
-🚀 I'm seeking opportunities in Software Engineering (especially game production) and Cloud Computing.  
 
 ## 🌐 Find Me:
 - 📫 [Email](mailto:zhengzhongze4@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/augustzheng/)
